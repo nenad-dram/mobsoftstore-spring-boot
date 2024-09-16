@@ -1,0 +1,5 @@
+INSERT  INTO USERS (username, password, role) VALUES
+ ('developer1', '$2a$10$6D45LGybvHYUxHMyiQ722.vev48PZZeS2sCIELQCZsSW433n5X3wy', 'DEVELOPER'),
+ ('developer2', '$2a$10$6D45LGybvHYUxHMyiQ722.vev48PZZeS2sCIELQCZsSW433n5X3wy', 'DEVELOPER'),
+ ('user1', '$2a$10$6D45LGybvHYUxHMyiQ722.vev48PZZeS2sCIELQCZsSW433n5X3wy', 'USER'),
+ ('user2', '$2a$10$6D45LGybvHYUxHMyiQ722.vev48PZZeS2sCIELQCZsSW433n5X3wy', 'USER');
